@@ -2,8 +2,7 @@
 Repository for [The Stanley Parable: Ultra Deluxe](https://store.steampowered.com/app/1703340/The_Stanley_Parable_Ultra_Deluxe/) mods made by KabanFriends. Use with [MelonLoader](https://github.com/LavaGang/MelonLoader).
 
 # Mods
-## EnableDebug
-### v1.0.0 - [Download](https://github.com/KabanFriends/TSPUD-Mods/raw/master/Releases/EnableDebug.dll)
+## EnableDebug | v1.0.0 - [Download](https://github.com/KabanFriends/TSPUD-Mods/raw/master/Releases/EnableDebug.dll)
 Automatically enables debug settings in the game. (Go to Settings → DEBUG)
 
 # How to Install Mods
