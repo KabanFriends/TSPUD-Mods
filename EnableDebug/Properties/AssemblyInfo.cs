@@ -6,8 +6,6 @@ using MelonLoader;
 
 [assembly: ComVisible(false)]
 
-[assembly: Guid("092e8438-d52f-44dc-be36-54516e2e230a")]
-
 [assembly: AssemblyVersion("1.0.0")]
 [assembly: AssemblyFileVersion("1.0.0")]
 
