@@ -5,6 +5,12 @@ Repository for [The Stanley Parable: Ultra Deluxe](https://store.steampowered.co
 ### EnableDebug | v1.0.0 - [Download](https://github.com/KabanFriends/TSPUD-Mods/raw/master/Releases/EnableDebug.dll)
 Automatically enables debug settings in the game. (Go to Settings → DEBUG)
 
+<br>
+
+### DisableSteamDRM | v1.0.0 - Download Not Available
+Prevents the game from automatically restarting when not using Steam. Useful for mod developers.  
+**NOTE**: This is NOT a mod for encouraging piracy. To minimize the possibility of piracy, users must compile the code by themselves.
+
 # How to Install Mods
 1. Install [MelonLoader](https://github.com/LavaGang/MelonLoader) in your The Stanley Parable: Ultra Deluxe
 1. Run the game once to create necessary files and folders
@@ -15,4 +21,4 @@ Automatically enables debug settings in the game. (Go to Settings → DEBUG)
 # Compiling
 If you want to build the mods yourself, make sure to copy the following files to the `libs` folder:
 - All .dll files from your `The Stanley Parable Ultra Deluxe_Data/Managed` folder
-- MelonLoader.dll
+- 0Harmony.dll and MelonLoader.dll from your MelonLoader installation
