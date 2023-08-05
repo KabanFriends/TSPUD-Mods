@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnableDebug", "EnableDebug\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisableSteamDRM", "DisableSteamDRM\DisableSteamDRM.csproj", "{55BB5F26-16EC-4EEC-A748-09C08A7A7D85}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mario64", "Mario64\Mario64.csproj", "{87828A8B-9A55-447A-A0B2-FEE943D38B8A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{55BB5F26-16EC-4EEC-A748-09C08A7A7D85}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55BB5F26-16EC-4EEC-A748-09C08A7A7D85}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55BB5F26-16EC-4EEC-A748-09C08A7A7D85}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87828A8B-9A55-447A-A0B2-FEE943D38B8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87828A8B-9A55-447A-A0B2-FEE943D38B8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87828A8B-9A55-447A-A0B2-FEE943D38B8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87828A8B-9A55-447A-A0B2-FEE943D38B8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
